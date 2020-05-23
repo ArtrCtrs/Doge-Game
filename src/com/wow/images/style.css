@@ -1,0 +1,8 @@
+@font-face {
+    /*    /src: url(“font1.ttf”);*/
+    src: url(“PIXELADE.ttf”);
+}
+
+.label {
+    -fx-font-family: “Doge”;
+}
